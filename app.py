@@ -21,14 +21,6 @@ if __name__ == "__main__":  #double check it's under my name
     app.run()
 
 
-# In[4]:
-
-
-pip install flask
-
-
-# In[ ]:
-
 
 
 
